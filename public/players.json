@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Mashrafe Bin Mortaza",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "rating": 9.0,
+    "price": "15M USD",
+    "image": "https://i.ibb.co.com/4gsrVSxH/223989-6.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mohammad Ashraful",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "rating": 8.4,
+    "price": "20M USD",
+    "image": "https://i.ibb.co.com/9msXd3N1/Mohammad-Ashraful-589215.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anamul Haque Bijoy",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper Batter",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "rating": 8.1,
+    "price": "5M USD",
+    "image": "https://i.ibb.co.com/zT506NXq/image-264932-1745155703.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "rating": 9.5,
+    "price": "22M USD",
+    "image": "https://i.ibb.co.com/kjzFtXK/kbn7tvqg-shakib-al-hasan-625x300-21-October-19.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 9.2,
+    "price": "20M USD",
+    "image": "https://i.ibb.co.com/QG1gXDG/pat-cummins-10-10-2023.png"
+  },
+  {
+    "id": 6,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper Batter",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "rating": 8.9,
+    "price": "18M USD",
+    "image": "https://i.ibb.co.com/NgBhkQHH/jos-buttler-13-10-2023.png"
+  },
+  {
+    "id": 7,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 9.4,
+    "price": "20M USD",
+    "image": "https://i.ibb.co.com/svgWp9XJ/320448.png"
+  },
+  {
+    "id": 7,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper Batter",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "rating": 8.8,
+    "price": "15M USD",
+    "image": "https://i.ibb.co.com/yFW8cFqN/images.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "rating": 8.5,
+    "price": "15M USD",
+    "image": "https://i.ibb.co.com/ks8zLjyJ/1745.png"
+  },
+  {
+    "id": 10,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 9.0,
+    "price": "18M USD",
+    "image": "https://i.ibb.co.com/MDsTstB9/Glenn-Maxwell.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 8.7,
+    "price": "14M USD",
+    "image": "https://i.ibb.co.com/JRZyPz7H/mahmudullah-20230812044036.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "rating": 9.6,
+    "price": "15.5M USD",
+    "image": "https://i.ibb.co.com/8nvnnM7X/1154.png"
+  }
+]
