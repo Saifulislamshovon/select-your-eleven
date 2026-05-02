@@ -10,9 +10,9 @@ const AvailablePlayers = ({playersPromise}) => {
     // console.log(data);
 
     return (
-<div className='max-w-1200px mx-auto grid grid-cols-3 gap-3  ' >
+<div className='grid grid-cols-1  md:grid grid-cols-3 gap-3 ' >
 {
-    playerData.map(player =>  <div className="card p-3 m-2 bg-base-100  ">
+    playerData.map(player =>  <div className="card p-3 m-2 bg-base-100 max-w-1200 mx-auto ">
   <figure>
     <img
       src={player.image}

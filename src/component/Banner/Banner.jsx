@@ -5,7 +5,7 @@ import cricketImg from './../../assets/banner-main.png';
 const Banner = () => {
     return (
 <>
-    <div className='rounded-2xl bg-black/80  overflow-hidden bg-cover p-5 m-5  bg-center' 
+    <div className='rounded-2xl bg-black/80  overflow-hidden bg-cover p-5 m-5  bg-center max-w-1200 mx-auto' 
     style={{ backgroundImage: `url(${BanImg})` }} >
 
 
