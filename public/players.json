@@ -7,7 +7,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "rating": 9.0,
-    "price": "15M USD",
+    "price": "5,85,000 USD",
     "image": "https://i.ibb.co.com/4gsrVSxH/223989-6.jpg"
   },
   {
@@ -18,7 +18,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "rating": 8.4,
-    "price": "20M USD",
+    "price": "4,90,000 USD",
     "image": "https://i.ibb.co.com/9msXd3N1/Mohammad-Ashraful-589215.jpg"
   },
   {
@@ -29,7 +29,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
     "rating": 8.1,
-    "price": "5M USD",
+    "price": "3,80,000 USD",
     "image": "https://i.ibb.co.com/zT506NXq/image-264932-1745155703.jpg"
   },
   {
@@ -40,7 +40,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Slow left-arm orthodox",
     "rating": 9.5,
-    "price": "22M USD",
+    "price": "5,85,000 USD",
     "image": "https://i.ibb.co.com/kjzFtXK/kbn7tvqg-shakib-al-hasan-625x300-21-October-19.jpg"
   },
   {
@@ -51,7 +51,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "rating": 9.2,
-    "price": "20M USD",
+    "price": "5,15,000 USD",
     "image": "https://i.ibb.co.com/QG1gXDG/pat-cummins-10-10-2023.png"
   },
   {
@@ -62,7 +62,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
     "rating": 8.9,
-    "price": "18M USD",
+    "price": "4,55,000 USD",
     "image": "https://i.ibb.co.com/NgBhkQHH/jos-buttler-13-10-2023.png"
   },
   {
@@ -73,18 +73,18 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "rating": 9.4,
-    "price": "20M USD",
+    "price": "5,75,000 USD",
     "image": "https://i.ibb.co.com/svgWp9XJ/320448.png"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Mushfiqur Rahim",
     "country": "Bangladesh",
     "role": "Wicketkeeper Batter",
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
     "rating": 8.8,
-    "price": "15M USD",
+    "price": "4,25,000 USD",
     "image": "https://i.ibb.co.com/yFW8cFqN/images.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
     "rating": 8.5,
-    "price": "15M USD",
+    "price": "5,25,000 USD",
     "image": "https://i.ibb.co.com/ks8zLjyJ/1745.png"
   },
   {
@@ -106,7 +106,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "rating": 9.0,
-    "price": "18M USD",
+    "price": "5,15,000 USD",
     "image": "https://i.ibb.co.com/MDsTstB9/Glenn-Maxwell.jpg"
   },
   {
@@ -117,7 +117,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "rating": 8.7,
-    "price": "14M USD",
+    "price": "3,55,000 USD" ,
     "image": "https://i.ibb.co.com/JRZyPz7H/mahmudullah-20230812044036.jpg"
   },
   {
@@ -128,7 +128,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "rating": 9.6,
-    "price": "15.5M USD",
+    "price": "6,55,000 USD",
     "image": "https://i.ibb.co.com/8nvnnM7X/1154.png"
   }
 ]
